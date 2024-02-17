@@ -1,6 +1,6 @@
 # CLI SLOT MACHINE IN PYTHON 🎰
     This program simulates a basic slot machine game where players can spin the reels and potentially win big payouts 😎
-    I did this because I myself do enjoy gambling......Somtimes.....
+    I did this because I myself do enjoy gambling......Sometimes.....
 
 # How to Play
 
