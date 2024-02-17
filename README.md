@@ -10,8 +10,6 @@
 
     You will be prompted to enter the amount you want to bet on each spin.
 
-    Press Enter to spin the reels.
-
     The program will randomly generate three symbols for each reel.
 
     If you get a winning combination, you will earn a prize based on a set multiplyier for each symbol. ( As of right now, only a match of symbols horizontally results in a payout )
